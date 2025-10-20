@@ -140,11 +140,11 @@ label[for="new-task"] {
   display: none;
 }
 
-.section__list .section__list-item.edit-mode .section__input[type=text] {
+.section__list .section__list-item.editMode .section__input[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-.section__list .list-item.edit-mode .section__label {
+.section__list .list-item.editMode .section__label {
   display: none;
 }
